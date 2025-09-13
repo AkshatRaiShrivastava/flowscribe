@@ -1,0 +1,31 @@
+/* .flowchart-container {
+  width: 100%;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+.flowchart-container svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Add spacing between components */
+/* .mantine-Paper-root {
+  margin-bottom: 1rem;
+}
+
+/* Make sure code areas are properly formatted */
+/* pre {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+} */
+/* 
+Container spacing 
+.mantine-Container-root > * + * {
+  margin-top: 2rem;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

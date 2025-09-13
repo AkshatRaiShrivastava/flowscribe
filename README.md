@@ -1,4 +1,4 @@
-# FlowScribe
+<img width="1920" height="1080" alt="Screenshot From 2025-09-13 15-15-36" src="https://github.com/user-attachments/assets/ef6664ae-183b-4929-a1fd-ae976acac33b" /># FlowScribe
 
 FlowScribe is an intelligent code analysis tool that transforms your code into visual flowcharts, pseudocode explanations, complexity analysis, and test cases using Google's Gemini AI. Built with React and Firebase, it provides developers with a comprehensive understanding of their code's structure and behavior.
 
@@ -124,6 +124,12 @@ flowscribe-react/
 - `history.js`: Manages user analysis history
 - `repository.js`: Handles data persistence
 - `share.js`: Manages analysis sharing functionality
+
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot From 2025-09-13 15-15-36" src="https://github.com/user-attachments/assets/2841bb26-601f-4a5c-b149-14c5ef69b383" />
+<img width="1920" height="1080" alt="Screenshot From 2025-09-13 15-17-30" src="https://github.com/user-attachments/assets/b85ea14b-0f1d-455a-897f-ea1ced9d8eda" />
+<img width="1920" height="1080" alt="Screenshot From 2025-09-13 15-17-37" src="https://github.com/user-attachments/assets/236d5805-48d1-438b-a36a-736b1e5dd99a" />
+
 
 ## Contributing
 
